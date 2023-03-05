@@ -12,3 +12,7 @@ h1, h2 {
 header {
     border-bottom: 8px solid purple;
 }
+
+h2 {
+    text-decoration: underline;
+}
