@@ -13,6 +13,22 @@ header {
     border-bottom: 8px solid purple;
 }
 
-h2 {
-    text-decoration: underline;
+/* Class Selectors */
+.class-list {
+    list-style-type: square;
 }
+
+.item {
+    border: 5px solid teal;
+}
+
+.even {
+    background-color: gray;
+}
+
+.odd {
+    background-color: black;
+    color: white;
+}
+
+
